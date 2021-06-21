@@ -1,0 +1,9 @@
+{
+  "files.associations": {
+    "*.rmd": "markdown",
+    "simulated-annealing.h": "c",
+    "stdio.h": "c",
+    "time.h": "c",
+    "cstdlib": "c"
+  }
+}
